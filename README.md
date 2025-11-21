@@ -3,22 +3,13 @@
   backend developer focused on building efficient, scalable, and well-thought-out solutions.  
   always seeking new challenges and learning opportunities.
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joeltorcato&color=333333&style=for-the-badge" alt="profile views">
-</p>
 
 ---
 
 ## 🧰 current stack
 - **languages:** c, javascript, typescript  
-- **frameworks:** node.js (fastify), bun (elysia.js)  
+- **frameworks:** bun (elysia.js), node.js (fastify)
 - **databases:** postgresql, redis, mongodb
-
----
-
-## 🚀 featured project
-🔹 [**c repository**](https://github.com/joeltorcato/C)  
-gathering all my code written in class and self-taught in c language.
 
 ---
 
