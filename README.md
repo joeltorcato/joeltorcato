@@ -1,4 +1,4 @@
-<h1 align="center">hey, i'm joel torcato! 👨‍💻</h1>
+<h1 align="center">hey, i'm joel torcato!</h1>
 <p align="center">
   backend developer focused on building efficient, scalable, and well-thought-out solutions.  
   always seeking new challenges and learning opportunities.
